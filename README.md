@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/JavaScript-4c4c4c?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/React-4c4c4c?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Git-4c4c4c?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/Figma-4c4c4c?style=for-the-badge&logo=figma&logoColor=02d084"/>
 </div>
 
 <br>

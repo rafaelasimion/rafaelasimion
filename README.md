@@ -5,7 +5,7 @@
 <p>
   <h3>Olá, sou a Rafa 👋 </h3>
   🎓 Estudante de ADS – FATEC Franca  <br>
-  💻 Desenvolvedora front-end em construção  <br>
+  💻 Desenvolvedora front-end  <br>
   ⚛️ Foco em JavaScript e React
 </p>
 
@@ -33,19 +33,12 @@
 
 <p>
   <h3>📖 Atualmente aprendendo </h3>
-  - React (componentização e hooks) <br>
-  - Boas práticas de front-end <br>
-  - Git e GitHub no fluxo real de projetos
+  - React <br>
+  - Python <br>
+  - MySQL
 </p>
 
 <br>
-
-<p>
-  <h3>✨ Sobre mim</h3>
-  - Curto interfaces limpas e bem pensadas <br>
-  - Gosto de aprender praticando <br>
-  - Um commit por vez 🚀
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6B4EFF&height=120&section=footer"/>

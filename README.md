@@ -28,16 +28,6 @@
   https://rafaelasimion.github.io/portfolio/
 </p>
 
-
-<br>
-
-<p>
-  <h3>📖 Atualmente aprendendo </h3>
-  - React <br>
-  - Python <br>
-  - MySQL
-</p>
-
 <br>
 
 <p align="center">
